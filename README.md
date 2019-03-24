@@ -4,7 +4,7 @@ A simple GraphQL server demo.
 <b>Python's packages:</b>
 <pre>
   <code>pip install django
-    pip install graphene_django</code>
+  pip install graphene_django</code>
 </pre>
 <b>VueJS npm packages (package.json is available):</b>
 <pre>
