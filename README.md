@@ -1,9 +1,9 @@
 # GraphQL-with-Django-VueJS
 A simple GraphQL server demo.
 
-Python's packages:
-  pip install django
-  pip install graphene_django
+<b>Python's packages:</b>
+<p>  pip install django</p>
+<p>  pip install graphene_django</p>
 
-VueJS npm packages (package.json is available):
-  npm install apollo-client@1.9.3
+<b>VueJS npm packages (package.json is available):</b>
+<p>  npm install apollo-client@1.9.3</p>
